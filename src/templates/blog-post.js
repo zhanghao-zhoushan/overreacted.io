@@ -185,7 +185,7 @@ class BlogPostTemplate extends React.Component {
               fontFamily: systemFont,
             }}
           >
-            <Signup />
+            {/* <Signup /> */}
           </div>
           <h3
             style={{
@@ -201,7 +201,7 @@ class BlogPostTemplate extends React.Component {
               }}
               to={'/'}
             >
-              Overreacted
+              Intricate World
             </Link>
           </h3>
           <Bio />

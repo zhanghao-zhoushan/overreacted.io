@@ -22,10 +22,16 @@ class Bio extends React.Component {
             borderRadius: '50%',
           }}
         />
-        <p style={{ maxWidth: 310 }}>
-          Personal blog by{' '}
-          <a href="https://mobile.twitter.com/dan_abramov">Dan Abramov</a>.{' '}
-          I&nbsp;explain with words and code.
+        <p
+          style={{
+            maxWidth: 520,
+            height: 56,
+            marginBottom: 0,
+            display: 'flex',
+            alignItems: 'center',
+          }}
+        >
+          💦 我是张浩，前端程序猿一枚，这里是我的技术博客。
         </p>
       </div>
     );
