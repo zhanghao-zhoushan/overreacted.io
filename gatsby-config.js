@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Intricate World',
+    title: 'The Code Maze',
     author: '张浩',
-    description: '碰撞思维的火花',
+    description: '💦 我是张浩，前端程序猿一枚，这里是我的技术博客。',
     siteUrl: 'https://www.zhanghao-zhoushan.cn/',
     social: {
       twitter: '@Just__Sailor',

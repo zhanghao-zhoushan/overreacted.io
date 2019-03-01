@@ -201,7 +201,7 @@ class BlogPostTemplate extends React.Component {
               }}
               to={'/'}
             >
-              Intricate World
+              The Code Maze
             </Link>
           </h3>
           <Bio />
